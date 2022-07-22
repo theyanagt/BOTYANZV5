@@ -59,7 +59,19 @@ global.multiplier = 100 // The higher, The harder levelup
 // Sticker WM
 global.packname = 'Ciss 📸 ©YanzBotz'
 global.author = 'ʙy @AhyanMhmmd'
+//CREATOR
+global.nameown = 'AhyanMhmmd'
+global.nomorown = '628884357769'
+global.htki = '––––––『' //hiasan title kiri
 
+global.htka = '』––––––' //hiasan title kanan
+
+global.lopr = 'Ⓟ'
+
+global.lolm = 'Ⓛ'
+
+global.htjava = '⫹⫺' //hiasan Doang :v
+global.hwaifu = ['https://telegra.ph/file/a3bd959e8cf3131be2213.jpg']
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
         global.colong2 = 'ʙy @AhyanMhmmd'
